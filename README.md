@@ -9,13 +9,13 @@ We believe that mastery is achieved not in isolation but through collective lear
 
 ## 🎯 What Defines Bugme
 
-    A close-knit cybersecurity team of learners and practitioners.
+#    A close-knit cybersecurity team of learners and practitioners.
 
-    Driven by collaborative growth, mutual support, and continuous improvement.
+#    Driven by collaborative growth, mutual support, and continuous improvement.
 
-    Focused on hands-on learning, ethical hacking, and security research.
+#    Focused on hands-on learning, ethical hacking, and security research.
 
-    United by a shared passion for protecting digital systems and responsibly disclosing vulnerabilities.
+#    United by a shared passion for protecting digital systems and responsibly disclosing vulnerabilities.
 
 ## 💡 Our Vision
 
